@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Verify with invalid credentials]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18941" started-at="2020-06-16T14:59:35Z" finished-at="2020-06-16T14:59:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18941" started-at="2020-06-16T14:59:35Z" finished-at="2020-06-16T14:59:54Z">
+      <class name="com.testyantra.onlineshopping.ToLogintoappinvalidcredentials">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testyantra.onlineshopping.ToLogintoappinvalidcredentials@5c7fa833]" name="login" duration-ms="18925" started-at="2020-06-16T20:29:35Z" finished-at="2020-06-16T20:29:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Verify with invalid credentials]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.testyantra.onlineshopping.ToLogintoappinvalidcredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
